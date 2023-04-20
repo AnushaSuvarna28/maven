@@ -12,4 +12,9 @@ public class RunConfigTest
 		System.out.println(n);
 		System.out.println(a);
 	}
+	@Test
+	public void m()
+	{
+		
+	}
 }
