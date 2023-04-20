@@ -13,8 +13,9 @@ public class RunConfigTest
 		System.out.println(a);
 	}
 	@Test
-	public void m()
+	public void a()
 	{
-		
+		/////
 	}
+
 }
